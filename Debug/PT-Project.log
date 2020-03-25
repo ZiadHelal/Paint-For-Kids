@@ -1,0 +1,105 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+  Output.cpp
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\GUI\Output.cpp(309,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Input.cpp
+  CTriangle.cpp
+  CRectangle.cpp
+  CLine.cpp
+  CFigure.cpp
+  CCircle.cpp
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\Figures\CCircle.cpp(86,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\image.cpp(115,29): warning C4018: '<': signed/unsigned mismatch
+  colors.cpp
+  auxil.cpp
+  CMUgraphics.cpp
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\CMUgraphics.cpp(257,9): warning C4101: 'iX': unreferenced local variable
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\CMUgraphics.cpp(257,13): warning C4101: 'iY': unreferenced local variable
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\CMUgraphics.cpp(751,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\CMUgraphics.cpp(1164,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\CMUgraphics.cpp(1171,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\CMUgraphics.cpp(1202,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\CMUgraphics.cpp(1210,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
+  ApplicationManager.cpp
+  To_Play.cpp
+  To_Draw.cpp
+  Select.cpp
+  SaveAction.cpp
+  Generating Code...
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\Actions\To_Draw.cpp(69): warning C4715: 'To_Draw::str_int': not all control paths return a value
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\Figures\CFigure.cpp(70): warning C4715: 'CFigure::str_to_clr': not all control paths return a value
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\Figures\CFigure.cpp(51): warning C4715: 'CFigure::clr_to_str': not all control paths return a value
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\GUI\Output.cpp(217): warning C4715: 'Output::getCrntDrawColor1': not all control paths return a value
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\GUI\Output.cpp(235): warning C4715: 'Output::getCrntFillColor1': not all control paths return a value
+  Compiling...
+  ResizeAction.cpp
+  PasteAction.cpp
+  LoadAction.cpp
+  FillColorAction.cpp
+  ExitAction.cpp
+  DrawColorAction.cpp
+  DeleteAction.cpp
+  CutAction.cpp
+  CopyAction.cpp
+  AddTriAction.cpp
+  AddRectAction.cpp
+  AddLineAction.cpp
+  AddCircleAction.cpp
+  Generating Code...
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\Actions\LoadAction.cpp(71): warning C4715: 'LoadAction::str_int': not all control paths return a value
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\Actions\LoadAction.cpp(79): warning C4715: 'LoadAction::str_clr': not all control paths return a value
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  jpegload.c
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\jpegload.c(23,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\jpeg\jmemmgr.c(1103,1): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1191): message : see declaration of 'getenv'
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\jpeg\jmemmgr.c(1106,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\jpeg\jerror.c(169,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\CMUgraphicsLib\jpeg\jerror.c(171,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  Generating Code...
+  Compiling...
+  jdhuff.c
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  Generating Code...
+AddCircleAction.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PT-Project.vcxproj -> D:\CCE\Programming Techniques\Project\Phase2 - Project Framework\.\Debug\PT Project.exe
